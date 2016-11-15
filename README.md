@@ -3,4 +3,4 @@ Course projects from machine learning course 6.867 at MIT Fall 2016. Each projec
 
 (1) SVM Classifiers Implementated with Pegasos Algorithm and Quadratic Programming
 
-(2) Fully-Connected Neural Net and Convolutional Neural Net
+(2) Fully-Connected Neural Net and Convolutional Neural Net (incoming)
