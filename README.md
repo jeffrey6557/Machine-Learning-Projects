@@ -1,6 +1,6 @@
 # machine-learning-papers
-Coursework from machine learning course 6.867 at MIT Fall 2016. Each paper coauthored by me and my teammate (Siyuan Dong) describes the ins and outs of a well-known algorithm, and implementation on real-world data. 
+Course projects from machine learning course 6.867 at MIT Fall 2016. Each project coauthored by me and teammate Siyuan Dong describes a well-known algorithm and tests various implementations on datasets (e.g. MNIST). 
 
-(1) SVM on binary classification
+(1) SVM Classifiers Implementated with Pegasos Algorithm and Quadratic Programming
 
-(2) Neural Net on multi-class predition
+(2) Fully-Connected Neural Net and Convolutional Neural Net
